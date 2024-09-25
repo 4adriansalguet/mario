@@ -5,6 +5,10 @@
   font-family: "Pixel";
 }
 
+body {
+  min-width: 1200px;
+}
+
 @font-face {
   font-family: "Pixel";
   src: url("./fonts/Pixel.woff2") format("woff2"),
